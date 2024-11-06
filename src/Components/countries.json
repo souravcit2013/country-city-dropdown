@@ -1,0 +1,19 @@
+{
+  "countries": [
+    {
+      "name": "India",
+      "value": "IN",
+      "cities": ["kolkata", "pune"]
+    },
+    {
+      "name": "UAE",
+      "value": "AE",
+      "cities": ["abu dhabi", "dubai"]
+    },
+    {
+      "name": "Qatar",
+      "value": "QR",
+      "cities": ["Doha", "Dukhan"]
+    }
+  ]
+}
